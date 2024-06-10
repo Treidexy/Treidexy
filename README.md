@@ -3,6 +3,4 @@
 
 ## The Goal 🫡
 - [x] Learn programming
-- [ ] Create a Programming Lang called `nash`
-- [ ] Create an OS called `Dubius` (in nash), *centered around Games & Programming*
 - [ ] Rule the world
